@@ -36,7 +36,7 @@ class App extends React.Component {
 
 			<table>
                 <tr>
-                    <th>FullName</th>
+                    <th>Name</th>
                     <th>MobileNumber</th>
                 </tr>
 				{result}
